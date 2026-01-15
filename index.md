@@ -8,10 +8,10 @@
 앞으로 적는다
 
 -스트림릿 실습으로 만든 앱페이지 260115
->https://to-forest-someshi.streamlit.app/
+><https://to-forest-someshi.streamlit.app/>
 
 ><iframe src="https://to-forest-someshi.streamlit.app/?embed=true" 
         width="100%" 
         height="800px" 
         style="border:none;">
-</iframe>
+
