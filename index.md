@@ -20,4 +20,11 @@
    반면에 그라디오는 어떻게 보여지느냐 보다는 나의 모델이 '실제로 잘 돌아가는지'를 빨리 확인하고 싶다 기능적인 확인과 시연을 하는 데 있어서 강점이 있다고 합니다.
    스트림릿이 다이어리 꾸미기 같다면 그라디오는 다이어리 제작 공정 테스트 같습니다. 사실 그라디오는 전혀 안건드려봐서 잘 모르겠지만 제미나이의 설명을 보고 제가 요약했습니다.
 
-
+2. 스트림릿 개발환경
+   - 로컬에서 스트림릿 기본 환영 메시지 출력.
+     <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/b72e7999-c62f-444f-8c1d-74da6deb4ea4" />
+     <img width="1274" height="1032" alt="image" src="https://github.com/user-attachments/assets/9440809c-061f-4ac0-b70d-a1eeec2becd1" />
+   - 코랩에서 출력
+     <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/369abed4-2bc7-4e54-b3e6-bcb5c355270b" />
+3. 스트림릿 기본문법
+   -      
