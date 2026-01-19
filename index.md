@@ -29,7 +29,7 @@
 3,4. 스트림릿 기본문법
    - 실습용으로 만드는 중인 웹앱 페이지에서 스트림릿 기본문법을 활용하고 컴포넌트 추가하기.
      진출 확률한 나열한 단순 그래프를 만들었다가 체크박스를 더해서 조건에 따라 다른 표시가 막대에 더해지는 업데이트를 함.
-     - <a href="https://github.com/SwamptoForest/to-forest/commits/main/mamal.py" target="_blank">
+     - <a href="https://github.com/SwamptoForest/to-forest/commits/main/mamal.py" target="_blank">새 탭에서 열기</a>
 
 5. 스트림릿 깃팟?포드? 에 올리기.
    - 나의 깃허브 레포지토리에 requirements.txt(구동에 필요한 라이브러리 같은 것들을 요구하는 목록같다) 와 .gitpod.yml(이건 정말 뭔지 모르겠다, 숨김파일이라며 보이지도 않음)를 생성해서 업로드 한다.
@@ -38,7 +38,7 @@
      
    
 6. 스트림릿 실습으로 만든 앱페이지 260115 ~ 260119
-         >><a href="https://to-forest-someshi.streamlit.app" target="_blank">
+         >><a href="https://to-forest-someshi.streamlit.app" target="_blank">새 탭에서 열기</a>
 
          
      
