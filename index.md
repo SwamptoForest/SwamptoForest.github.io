@@ -7,8 +7,7 @@
 무엇을 적어야 하는지 전혀 모름🤷‍♂️ 
 앞으로 적는다
 
--스트림릿 실습으로 만든 앱페이지 260115
-><https://to-forest-someshi.streamlit.app/>
+
 
 260119 데이터분석을 위한 스트림릿 데일리미션 진행
 
@@ -26,5 +25,21 @@
      <img width="1274" height="1032" alt="image" src="https://github.com/user-attachments/assets/9440809c-061f-4ac0-b70d-a1eeec2becd1" />
    - 코랩에서 출력
      <img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/369abed4-2bc7-4e54-b3e6-bcb5c355270b" />
-3. 스트림릿 기본문법
-   -      
+
+3,4. 스트림릿 기본문법
+   - 실습용으로 만드는 중인 웹앱 페이지에서 스트림릿 기본문법을 활용하고 컴포넌트 추가하기.
+     진출 확률한 나열한 단순 그래프를 만들었다가 체크박스를 더해서 조건에 따라 다른 표시가 막대에 더해지는 업데이트를 함.
+     - <a href="https://github.com/SwamptoForest/to-forest/commits/main/mamal.py" target="_blank">
+
+5. 스트림릿 깃팟?포드? 에 올리기.
+   - 나의 깃허브 레포지토리에 requirements.txt(구동에 필요한 라이브러리 같은 것들을 요구하는 목록같다) 와 .gitpod.yml(이건 정말 뭔지 모르겠다, 숨김파일이라며 보이지도 않음)를 생성해서 업로드 한다.
+     설명에 따르면 해당 스트림릿 파일이 저장된 나의 레포지토리 주소 앞에 https://gitpod.io/#를 붙여서 https://gitpod.io/#https://github.com/SwamptoForest/to-forest 이런 식으로 쓰면 실행이 된다고
+     되어있는데 작성자가 무지한 관계로 스트림릿 클라우드에서 배포한 웹앱의 형태로 결과물을 보게 되었다.
+     
+   
+6. 스트림릿 실습으로 만든 앱페이지 260115 ~ 260119
+         >><a href="https://to-forest-someshi.streamlit.app" target="_blank">
+
+         
+     
+          
