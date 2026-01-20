@@ -1,9 +1,21 @@
 ---
 ---
 
+/* 1. 화면 너비를 1200px로 확 늘리기 (원래는 800px임) */
+$content-width: 1200px;
+
+/* 2. 테마 불러오기 (반드시 너비 설정 뒤에 와야 함!) */
 @import "{{ site.theme }}";
 
+/* 3. 이미지 찌그러짐 방지 (아까 그 코드) */
 img {
   max-width: 100%;
   height: auto !important;
+}
+
+/* 4. (혹시 몰라서 추가) 모바일에서도 꽉 차게 */
+@media screen and (max-width: 1200px) {
+  .wrapper {
+    max-width: 95%; /* 모바일에서는 양옆 여백 조금만 남기고 꽉 채움 */
+  }
 }
