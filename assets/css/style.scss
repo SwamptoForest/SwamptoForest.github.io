@@ -1,26 +1,29 @@
 ---
 ---
 
-/* 테마 먼저 불러오기 */
 @import "{{ site.theme }}";
 
-/* 1. 이미지 비율 유지 (이건 잘 되니까 유지) */
+/* 1. 범인은 이놈(.wrapper)이었다. 이놈을 1200px로 늘려야 한다. */
+.wrapper {
+  max-width: 1200px !important; /* 800px 제한 해제 */
+  width: 95% !important;        /* 화면 꽉 차게 */
+}
+
+/* 2. 내용물(section)도 껍데기에 맞춰 꽉 차게 늘린다. */
+section {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* 3. 이미지 비율 유지 (이건 유지) */
 img {
   max-width: 100%;
   height: auto !important;
 }
 
-/* 2. 화면 너비 강제 확장 (핵심!!) */
-/* Minimal 테마는 header, section, footer 태그가 너비를 꽉 잡고 있음 */
-header, section, footer {
-  max-width: 1200px !important; /* 800px 따위 무시하고 1200px로 강제 고정 */
-  width: 95% !important;        /* 혹시 몰라 가로폭 95% 확보 */
-}
-
-/* 3. 모바일 화면 대응 */
+/* 4. (선택사항) 모바일 화면 대응 */
 @media screen and (max-width: 1200px) {
-  header, section, footer {
+  .wrapper {
     width: 95% !important;
-    max-width: 100% !important;
   }
 }
