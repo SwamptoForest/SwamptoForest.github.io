@@ -3,25 +3,36 @@
 
 @import "{{ site.theme }}";
 
-/* 1. 범인은 이놈(.wrapper)이었다. 이놈을 1200px로 늘려야 한다. */
+/* 1. [유지] 화면 너비 1200px로 찢기 */
 .wrapper {
-  max-width: 1200px !important; /* 800px 제한 해제 */
-  width: 95% !important;        /* 화면 꽉 차게 */
+  max-width: 1200px !important;
+  width: 95% !important;
 }
-
-/* 2. 내용물(section)도 껍데기에 맞춰 꽉 차게 늘린다. */
 section {
   width: 100% !important;
   max-width: 100% !important;
 }
 
-/* 3. 이미지 비율 유지 (이건 유지) */
+/* 2. [유지] 이미지 비율 유지 */
 img {
   max-width: 100%;
   height: auto !important;
 }
 
-/* 4. (선택사항) 모바일 화면 대응 */
+/* 3. [추가] 글자 크기 키우기 (핵심!) */
+/* 본문, 문단, 리스트, 표 내용 전부 19px로 설정 */
+body, p, ul, ol, li, table, div {
+  font-size: 19px !important; 
+  line-height: 1.8 !important; /* 글자가 커진 만큼 줄 간격도 넓어야 읽기 편함 */
+}
+
+/* 4. [추가] 제목들도 덩달아 더 크게 키우기 */
+h1 { font-size: 40px !important; }
+h2 { font-size: 32px !important; }
+h3 { font-size: 26px !important; }
+h4 { font-size: 22px !important; }
+
+/* 5. 모바일 대응 */
 @media screen and (max-width: 1200px) {
   .wrapper {
     width: 95% !important;
