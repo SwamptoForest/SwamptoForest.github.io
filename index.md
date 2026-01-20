@@ -38,7 +38,7 @@
      
    
 6. 스트림릿 실습으로 만든 앱페이지 260115 ~ 260119
-         >><a href="https://to-forest-someshi.streamlit.app" target="_blank">새 탭에서 열기</a>
+         >><https://to-forest-someshi.streamlit.app>
 
          
      
