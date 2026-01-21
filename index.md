@@ -6,16 +6,22 @@
 <br>
 <br>
 <br>
-🌿늪 을 건 너 숲 으 로🌿🌿
-   의 기술🤖 블로그
+🌿**늪** 을 *건 너* **숲** 으 로🌿🌿
+   의 기술🤖 **블로그**
 
 ![ClipWindowsGIF](https://github.com/user-attachments/assets/8b09a44e-7fc5-413e-a0ce-cb743524d9eb)
 
 
 무엇을 적어야 하는지 전혀 모름🤷‍♂️ 
 앞으로 적는다
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 260119 데이터분석을 위한 스트림릿 데일리미션 진행
 
