@@ -91,7 +91,7 @@
 [260123 프로틀리(프롯리) 복습하기]
 
 - 기초를 다지느라 많이 미뤄진 데일리 미션 하나를 프롯리 복습 겸 하면서 태스크를 하나하나 완료 했다.
-- >>><a href "https://github.com/SwamptoForest/exp/blob/main/plotly01.ipynb" target = 'blank'>새 탭에서 열기</a>
+- >><a href "https://github.com/SwamptoForest/exp/blob/main/plotly01.ipynb" target = 'blank'>새 탭에서 열기</a>
 <br>
 <br>
 <br>
