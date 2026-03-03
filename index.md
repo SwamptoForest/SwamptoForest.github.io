@@ -2,13 +2,13 @@
 layout: default
 title: 늪건숲 블로그
 ---
-</b>
-</b>
-</b>
-</b>
-</b>
-</b>
-</b>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## 게시글 목록
 
 <ul>
@@ -19,14 +19,14 @@ title: 늪건숲 블로그
     </li>
   {% endfor %}
 </ul>
-</b>
-</b>
-</b>
-</b>
-</b>
-</b>
-</b>
-</b>
-</b>
-</b>
-</b>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
